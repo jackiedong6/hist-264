@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/HIST264Chronology/static/css/main.a05064c3.css",
+    "main.js": "/HIST264Chronology/static/js/main.32672d27.js",
+    "static/js/787.fd420570.chunk.js": "/HIST264Chronology/static/js/787.fd420570.chunk.js",
+    "static/media/MonoLisa-Regular.woff2": "/HIST264Chronology/static/media/MonoLisa-Regular.a76e0bf0d0e1039f517a.woff2",
+    "index.html": "/HIST264Chronology/index.html",
+    "main.a05064c3.css.map": "/HIST264Chronology/static/css/main.a05064c3.css.map",
+    "main.32672d27.js.map": "/HIST264Chronology/static/js/main.32672d27.js.map",
+    "787.fd420570.chunk.js.map": "/HIST264Chronology/static/js/787.fd420570.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a05064c3.css",
+    "static/js/main.32672d27.js"
+  ]
+}
