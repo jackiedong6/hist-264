@@ -1,0 +1,14 @@
+{
+    "chronology": 
+    {
+        "heading":"This chronology contains a collection of 50 dates (not including the Balkan Wars) for Timothy Snyder’s History of Eastern Europe class since 1914. It begins in 1914 with the start of WWI and ends in the early 21st century with the Orange Revolution in Ukraine in 2005. It reflects upon the clash of several themes during this time period, including the decline of empires, fluidity of regimes, fluidity of boundaries, fluidity of people, and a variety of political regimes. More specifically, however, this chronology will focus on how these themes surfaced in Eastern Europe with respect to the national question and state formation, the failure of democracy and national self-determination during the interwar period, Soviet political control, Nazi Germany’s exploitation of the national question, the rise and fall of communism in Eastern Europe following WWII, and a post-communist order. This chronology will hopefully narrate how the political, social, and economic trajectories of nations in Eastern Europe have contributed largely to the state of their nation today.",
+        "dates":[
+        {
+            "title": "testing123",
+            "date": "today",
+            "description": "Hi my name is Jackie. Hi my name is Michael.",
+            "indicies": [0,5,9]
+        }
+        ]
+    }
+}
